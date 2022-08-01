@@ -1,0 +1,16 @@
+{
+  "require": {
+    "pressmind/sdk": "dev-master",
+    "php": ">=7.4",
+    "ext-json": "*",
+    "ext-readline": "*",
+    "ext-curl": "*",
+    "ext-bcmath": "*",
+    "ext-mbstring": "*",
+    "ext-mongodb": "*",
+    "mongodb/mongodb": "^1.9",
+    "ext-imagick": "*",
+    "vlucas/phpdotenv" : "*",
+    "aws/aws-sdk-php" : "^3.211"
+  }
+}
